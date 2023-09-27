@@ -1,16 +1,3 @@
-# whatapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![formobile](https://github.com/binaypanjiyar/whatappclone/assets/65711937/da3178a5-e0aa-4d79-a401-c30a0e6e5f8f)
+![fordesktop](https://github.com/binaypanjiyar/whatappclone/assets/65711937/c616368c-c06f-4f6a-9a57-a3242dbb0a9e)
+![chatscreen](https://github.com/binaypanjiyar/whatappclone/assets/65711937/2def5f80-108b-44d0-b65f-0a326cdd61d5)
